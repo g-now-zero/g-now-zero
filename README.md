@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Gregory.
+# 👋 Hi there, I'm Gregory!
 
 ## 🌟 Featured Projects
 - TBD
